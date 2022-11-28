@@ -1,0 +1,22 @@
+{
+    "results":[
+        {
+            "id": 1,
+            "firstName": "Maxwill",
+            "surname": "Isaacs",
+            "email": "max@gmail.com"
+        },
+        {
+            "id": 2,
+            "firstName": "Lindokuhle",
+            "surname": "Mqgoqi",
+            "email": "likay@gmail.com"
+        },
+        {
+            "id": 3,
+            "firstName": "Jon",
+            "surname": "Snow",
+            "email": "jsnow@gmail.com"
+        }
+    ]
+}
